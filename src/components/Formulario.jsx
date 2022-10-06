@@ -20,7 +20,6 @@ export const Formulario = ({pacientes, setPacientes}) => {
         e.preventDefault();
 
         if ([nombre, propietario, email, fecha, sintomas].includes('')) {
-            console.log('CAMPO VACIO');
             setError(true);
             return;
         } 
