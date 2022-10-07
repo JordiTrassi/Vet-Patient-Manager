@@ -1,4 +1,4 @@
-<h1 align="center">Patient <img src="https://cdn-icons-png.flaticon.com/512/141/141783.png" alt="music-app" width="40" height="40" /> Manager App</h1>
+<h1 align="center">Veterinary Patient <img src="https://cdn-icons-png.flaticon.com/512/141/141783.png" alt="vet-patient-manager" width="40" height="40" /> Manager App</h1>
 <h2>App created with Vite and Tailwind CSS</h2>
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> 
@@ -10,4 +10,4 @@ I used Tailwind CSS.
 <img src="https://progsoft.net/images/tailwind-css-icon-70187f0341bd945dc65ad050a9a1b8f4fd79b1cf.png" alt="tailwindcss" width="40" height="40" />
 </p> 
 
-<a href="https://"><h3 align="center">Visit my App at Netlify!</h3></a>
+<a href="https://trassi-vet-patient-manager.netlify.app"><h3 align="center">Visit my App at Netlify!</h3></a>
