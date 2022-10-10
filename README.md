@@ -12,7 +12,3 @@ I used Tailwind CSS.
 
 
 [Visit my App at Netlify!](https://trassi-vet-patient-manager.netlify.app)
-
-<a href="https://trassi-vet-patient-manager.netlify.app"><h3 align="center">Visit my App at Netlify!</h3></a>
-
-###
